@@ -1,2 +1,1 @@
-configurations:
-  productName : "Test"
+configurations.productName=Test
